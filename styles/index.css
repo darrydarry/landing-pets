@@ -1,0 +1,32 @@
+@import url('./default.css');
+@import url('./navbar.css');
+@import url('./header.css');
+
+html {
+    font-family: 'Nunito';
+
+}
+
+.main-container {
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #FFF8F5;
+
+}
+
+/*
+    desktop window
+*/
+@media screen and (min-width: 1220px) {
+    .main-container {
+        padding: 0 80px;
+    }
+}
+
+@font-face {
+    font-family: "Nunito";
+    src: url("../fonts/Nunito-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}

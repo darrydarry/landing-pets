@@ -1,0 +1,55 @@
+.nav-logo {
+    flex: 1;
+}
+
+.nav-logo span {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 55px;
+    color: #FF7852;
+}
+
+.nav-logo span:last-child {
+    color: #8EC637;
+}
+
+.nav-items {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    display: flex;
+    flex: 2;
+}
+
+.nav-number {
+    background: linear-gradient(180deg, #FFA992 0%, #FF7852 65%);
+    box-shadow: 0px 10px 25px rgba(255, 124, 84, 0.3);
+    border-radius: 30px;
+    border: none;
+    color: #ffffff;
+    padding: 15px 35px;
+}
+
+.nav-bar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 80px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.nav-action {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-items a {
+    margin-right: 55px;
+    text-decoration: none;
+    color: #242851;
+}
