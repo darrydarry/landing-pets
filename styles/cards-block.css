@@ -1,0 +1,84 @@
+
+.cards-block {
+    background: #FFECE4;
+    border-radius: 50px;
+    padding: 80px;
+}
+
+.cards-block-container {
+    text-align: center;
+}
+
+.cards-title {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FF7751;
+}
+
+.cards-title-description {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 87px;
+    color: #242851;
+}
+
+.card-title {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 26px;
+    line-height: 35px;
+    color: #242851;
+}
+
+.card-title-description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #707283;
+}
+
+.card {
+    background: #FFFFFF;
+    border-radius: 30px;
+    width: 292px;
+    padding: 50px 35px;
+}
+
+.vet-card {
+    background: linear-gradient(180deg, #FFBBA9 0%, #FF6236 100%);
+    box-shadow: 0px 15px 40px rgba(255, 122, 85, 0.3);
+    border-radius: 30px;
+    width: 292px;
+    padding: 50px 40px;
+}
+
+.vet-title {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 26px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+
+.vet-title-description {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.vet-img {
+    padding: 13px 25px 36px 25px;
+}

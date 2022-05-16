@@ -1,6 +1,7 @@
 @import url('./default.css');
 @import url('./navbar.css');
 @import url('./header.css');
+@import url('./cards-block.css');
 
 html {
     font-family: 'Nunito';
