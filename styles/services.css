@@ -1,0 +1,67 @@
+.paws-description {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #242851;
+}
+
+.services-img {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.services {
+    display: flex;
+    margin-top: 155px;
+}
+
+.services-wrapp {
+    flex: 1;
+    position: relative;
+    margin: 0 80px;
+}
+
+.flex-wrapp {
+    display: flex;
+    align-items: center;
+}
+
+.flex-wrapp img {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+}
+
+.element6 {
+    position: absolute;
+    bottom: 660px;
+    left: -45px;
+}
+
+.element7 {
+    position: absolute;
+    top: 400px;
+    left: 100px;
+}
+
+.element8 {
+    position: absolute;
+    transform: rotate(40deg);
+    top: 403px;
+    right: 110px;
+}
+
+.element9 {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    top: 150px;
+    right: 100px;
+}
+
+.img2 {
+    z-index: 1;
+}
