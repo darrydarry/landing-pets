@@ -1,0 +1,77 @@
+.logo1 {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 49px;
+    color: #242851;
+}
+
+.logo2 {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 49px;
+    color: #FF7751;
+}
+
+.logo-description {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #707283;
+}
+
+.footer-title {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 38px;
+    color: #242851;
+}
+
+.title-content {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: none;
+    color: #707283;
+}
+
+.footer {
+    display: grid;
+    grid-template-columns: auto 2fr 1fr 2fr;
+    gap: 101px;
+    width: 1290px;
+    margin: 100px auto;
+    position: relative;
+}
+
+.copyright {
+    text-align: center;
+    margin-top: 130px;
+    padding-bottom: 30px;
+}
+
+.copyright-description {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #707283;
+}
+
+.column1 {
+    padding-top: 20px;
+}
+
+.element-13 {
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+}
