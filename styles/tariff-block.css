@@ -77,7 +77,7 @@
 }
 
 .title-orng {
-    ont-style: normal;
+    font-style: normal;
     font-weight: 800;
     font-size: 50px;
     line-height: 68px;
@@ -129,6 +129,7 @@
     display: flex;
     justify-content: center;
     margin-top: 155px;
+    position: relative;
 }
 
 .tariff-white {
@@ -176,7 +177,7 @@
 }
 
 .element-9 {
-    position: relative;
-    right: 431px;
-    top: 150px;
+    position: absolute;
+    bottom: 30px;
+    left: 120px;
 }

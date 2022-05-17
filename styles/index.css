@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 @import url('./default.css');
 @import url('./navbar.css');
 @import url('./header.css');
@@ -5,6 +6,7 @@
 @import url('./services.css');
 @import url('./groomers-block.css');
 @import url('./tariff-block.css');
+@import url('./pet-care.css');
 
 html {
     font-family: 'Nunito';
