@@ -1,0 +1,173 @@
+.tariff-title {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 38px;
+    color: #242851;
+    padding-top: 60px;
+}
+
+.time-title {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 68px;
+    color: #242851;
+}
+
+.list-wht {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #707283;
+}
+
+.price {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 68px;
+    color: #FF7751;
+}
+
+.visit {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 68px;
+    color: #FF7751;
+}
+
+.tariff-btn-orng {
+    background: linear-gradient(180deg, #FFA991 0%, #FF7852 100%);
+    box-shadow: 0px 10px 25px rgba(255, 124, 84, 0.3);
+    border-radius: 30px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    cursor: pointer;
+    color: #FFFFFF;
+    border: none;
+    width: 214px;
+    height: 60px;
+    margin-top: 35px;
+}
+
+.tariff-title-orng {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 38px;
+    color: #FFFFFF;
+    padding-top: 60px;
+}
+
+.title-orng {
+    ont-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 68px;
+    color: #FFFFFF;
+}
+
+.list-orng {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.price-orng {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 68px;
+    color: #FFFFFF;
+}
+
+.visit-orng {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 68px;
+    color: #FFFFFF;
+}
+
+.tariff-btn-wht {
+    background: #FFFFFF;
+    box-shadow: 0px 10px 25px rgba(255, 124, 84, 0.3);
+    border-radius: 30px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    border: none;
+    color: #FF7751;
+    cursor: pointer;
+    width: 214px;
+    height: 60px;
+    margin-top: 35px;
+}
+
+.tariff-block {
+    display: flex;
+    justify-content: center;
+    margin-top: 155px;
+}
+
+.tariff-white {
+    text-align: center;
+    background: #FFFFFF;
+    box-shadow: 0px 15px 40px rgba(217, 200, 193, 0.3);
+    border-radius: 20px;
+    width: 470px;
+    height: 743px;
+}
+
+.tariff-orange {
+    text-align: center;
+    background: linear-gradient(180deg, #FFA389 0%, #FF6439 100%);
+    box-shadow: 0px 15px 40px rgba(255, 103, 61, 0.3);
+    border-radius: 20px;
+    width: 470px;
+    height: 843px;
+    position: relative;
+    bottom: 50px;
+    z-index: 1;
+}
+
+.left {
+    position: relative;
+    left: 50px;
+}
+
+.right {
+    position: relative;
+    right: 50px;
+}
+
+.span-wrapp-wht {
+    padding-top: 40px;
+}
+
+.span-wrapp-orng {
+    padding-top: 40px;
+}
+
+.element-8 {
+    position: relative;
+    left: 420px;
+}
+
+.element-9 {
+    position: relative;
+    right: 431px;
+    top: 150px;
+}
