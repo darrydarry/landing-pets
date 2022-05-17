@@ -7,6 +7,15 @@
     padding-top: 60px;
 }
 
+.tariff-title-right {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 38px;
+    color: #242851;
+    margin-block-start: 0;
+}
+
 .time-title {
     font-style: normal;
     font-weight: 800;
