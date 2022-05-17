@@ -1,0 +1,42 @@
+.groomers-block-container {
+    text-align: center;
+    padding-top: 80px;
+}
+
+.groomer-name {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 33px;
+    color: #242851;
+}
+
+.groomer-name-description {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FF7751;
+}
+
+.groomers-block {
+    background: #FFECE4;
+    border-radius: 50px;
+    margin-top: 155px;
+    padding-bottom: 100px;
+}
+
+.groomer-card {
+    background: #FFFFFF;
+    border-radius: 146px;
+    width: 292px;
+    height: 385px;
+    padding-top: 50px;
+}
+
+.groomers-cards {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}

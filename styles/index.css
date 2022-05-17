@@ -3,6 +3,7 @@
 @import url('./header.css');
 @import url('./cards-block.css');
 @import url('./services.css');
+@import url('./groomers-block.css');
 
 html {
     font-family: 'Nunito';
