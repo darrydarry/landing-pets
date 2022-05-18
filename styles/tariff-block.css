@@ -181,3 +181,9 @@
     bottom: 30px;
     left: 120px;
 }
+
+@media screen and (max-width: 1919px) and (min-width: 1400px) {
+.element-8 {
+    left: 270px;
+}
+}

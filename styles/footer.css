@@ -75,3 +75,9 @@
     bottom: 0px;
     right: 0;
 }
+
+@media screen and (max-width: 1919px) and (min-width: 1400px) {
+    .footer {
+        gap: 50px;
+    }
+}

@@ -40,3 +40,10 @@
     justify-content: space-around;
     text-align: center;
 }
+
+
+@media screen and (max-width: 1919px) and (min-width: 1400px) {
+    .groomers-block-container {
+        padding-top: 40px;
+    }
+}

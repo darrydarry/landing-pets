@@ -85,3 +85,28 @@
     background: #FFCDB8;
     filter: blur(200px);
 }
+
+@media screen and (max-width: 1919px) and (min-width: 1400px) {
+    .img-dog {
+        width: 500px;
+        height: 555px;
+        align-self: center;
+    }
+
+    .element3 {
+        left: 0;
+    }
+
+    .element4 {
+        display: none;
+    }
+
+    .element5 {
+        width: 584.99px;
+        height: 586.27px;
+    }
+
+    .header-title {
+        font-size: 80px;
+    }
+}

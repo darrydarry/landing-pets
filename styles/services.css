@@ -65,3 +65,19 @@
 .img2 {
     z-index: 1;
 }
+
+@media screen and (max-width: 1919px) and (min-width: 1400px) {
+    .services-img {
+        align-items: flex-end;
+    }
+
+    .img2 {
+        width: 413px;
+        height: 480px;
+    }
+
+    .element7, .element8 {
+        display: none;
+    }
+
+}

@@ -76,3 +76,30 @@
     position: relative;
     z-index: 1;
 }
+
+@media screen and (max-width: 1919px) and (min-width: 1400px) {
+  .pet-care{
+    padding: 65px 55px 40px;
+  }
+
+  .pet-care-img {
+    align-self: center;
+  }
+
+  .element-10{
+    left: 20px;
+  }
+
+  .element-11{
+    right: 120px;
+  }
+
+  .element-12{
+    left: 15px;
+  }
+
+  .dog3-gradient{
+    right: -77px;
+    left: unset;
+  }
+}

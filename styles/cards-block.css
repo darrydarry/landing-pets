@@ -82,3 +82,20 @@
 .vet-img {
     padding: 13px 25px 36px 25px;
 }
+
+
+@media screen and (min-width:1400px) and (max-width: 1919px) {
+    .card {
+        width: 215px;
+        padding: 46px 26px;
+    }
+
+    .vet-card {
+        width: 215px;
+        padding: 46px 26px;
+    }
+
+    .cards-block {
+        padding: 45px;
+    }
+}
