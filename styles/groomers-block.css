@@ -47,3 +47,23 @@
         padding-top: 40px;
     }
 }
+
+
+@media screen and (min-width: 768px) and (max-width: 1399px) {
+    .groomers-cards {
+        flex-wrap: wrap;
+    }
+
+    .groomer-card {
+        margin-bottom: 63px;
+    }
+
+    .groomers-block {
+        padding: 0;
+        margin: 100px 40px;
+    }
+
+    .groomers-block-container {
+        padding-top: 55px;
+    }
+}

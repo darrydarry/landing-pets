@@ -84,3 +84,34 @@
         width: initial;
     }
 }
+
+/* 
+    tablet window
+*/
+@media screen and (min-width: 768px) and (max-width: 1399px) {
+    .nav-logo span {
+        font-size: 20px;
+    }
+
+    .nav-items {
+        font-size: 16px;
+    }
+
+    .orange-button-nav {
+        font-size: 16px;
+        padding: 10px;
+        width: 150px;
+    }
+
+    .nav-logo {
+        padding-left: 40px;
+    }
+
+    .nav-items a {
+        margin-right: 20px;
+    }
+
+    .nav-action {
+        margin-right: 40px;
+    }
+}

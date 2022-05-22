@@ -81,3 +81,21 @@
         gap: 50px;
     }
 }
+
+@media screen and (min-width: 768px) and (max-width: 1399px) {
+    .footer {
+        grid-template-columns: 1fr 1fr;
+        width: auto;
+        padding: 40px 37px;
+    }
+
+    .element-13 {
+        right: 40px;
+    }
+
+    .logo-description {
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 30px;
+    }
+}

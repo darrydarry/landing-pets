@@ -1,19 +1,22 @@
 .header-title {
     font-style: normal;
     font-weight: 800;
-    font-size: 100px;
+    font-size: 103px;
+    ;
     line-height: 120px;
     color: #242851;
     margin-bottom: 30px;
+    width: 630px;
 }
 
 .header-titile-description {
     font-family: 'Quicksand';
     font-style: normal;
     font-weight: 400;
-    font-size: 22px;
+    font-size: 23px;
     line-height: 34px;
     color: #707283;
+    width: 630px;
 }
 
 .green-button {
@@ -34,6 +37,7 @@
 .header-wrapp {
     flex: 1;
     position: relative;
+    padding-left: 20px;
 }
 
 .header-img {
@@ -109,4 +113,60 @@
     .header-title {
         font-size: 80px;
     }
+}
+
+/* tablet window */
+@media screen and (min-width: 768px) and (max-width: 1399px) {
+
+    .img-dog {
+        width: 221px;
+        height: 215px;
+        position: absolute;
+        top: 179px;
+        right: 12px;
+    }
+
+    .header-title {
+        font-size: 55px;
+        line-height: 60px;
+    }
+
+    .element5 {
+        display: none;
+    }
+
+    .element2 {
+        width: 40px;
+        height: 30px;
+        right: 0;
+        top: 178px;
+    }
+
+    .element3 {
+        left: -260px;
+        width: 16px;
+        height: 17px;
+    }
+
+    .element4 {
+        display: none;
+    }
+
+    .element1 {
+        left: 603px;
+    }
+
+    .header-titile-description {
+        width: 327px;
+    }
+
+    .header-wrapp {
+        margin-top: 40px;
+    }
+
+    .header{
+    position: relative;
+
+    }
+
 }

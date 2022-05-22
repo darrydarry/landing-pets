@@ -32,6 +32,16 @@ html {
     }
 }
 
+/* 
+    tablet window
+*/
+@media screen  and (min-width: 768px) and (max-width: 1399px) {
+ .main-container {
+     max-width: none;
+ }
+
+}
+
 @font-face {
     font-family: "Nunito";
     src: url("../fonts/Nunito-Regular.ttf") format("truetype");

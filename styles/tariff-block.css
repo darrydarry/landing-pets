@@ -183,7 +183,92 @@
 }
 
 @media screen and (max-width: 1919px) and (min-width: 1400px) {
-.element-8 {
-    left: 270px;
+    .element-8 {
+        left: 270px;
+    }
 }
+
+@media screen and (min-width: 768px) and (max-width: 1399px) {
+
+    .tariff-title {
+        font-size: 16px;
+        padding-top: 25px;
+    }
+
+    .tariff-title-right {
+        font-size: 16px;
+        padding-top: 37px;
+    }
+
+    .time-title {
+        font-size: 32px;
+    }
+
+    .list-wht,
+    .list-orng {
+        font-size: 16px;
+    }
+
+    .price,
+    .title-orng,
+    .price-orng {
+        font-size: 29px;
+    }
+
+    .visit,
+    .visit-orng {
+        font-size: 15px;
+    }
+
+    .tariff-btn-orng {
+        width: 135px;
+        height: 40px;
+        margin: 0;
+        font-size: 15px;
+    }
+
+    .tariff-title-orng {
+        font-size: 16px;
+        padding-top: 25px;
+    }
+
+    .element-8 {
+        position: absolute;
+        top: -35px;
+        left: 210px;
+    }
+
+    .tariff-white {
+        width: 242px;
+        height: 520px;
+    }
+
+    .tariff-orange {
+        width: 242px;
+        height: 620px;
+    }
+
+    .span-wrapp-wht,
+    .span-wrapp-orng {
+        padding: 0;
+
+    }
+
+    .tariff-btn-wht {
+        margin-top: 10px;
+    }
+
+    .title-orng {
+        margin: 0;
+    }
+
+    .tariff-btn-wht {
+        width: 150px;
+        height: 40px;
+        font-size: 15px;
+    }
+
+    .element-9 {
+        left: 50px;
+    }
 }
